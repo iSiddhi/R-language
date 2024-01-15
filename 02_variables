@@ -1,0 +1,6 @@
+name <-"john"
+> age<-"40"
+> name
+[1] "john"
+> age
+[1] "40"
