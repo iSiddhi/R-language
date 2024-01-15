@@ -1,0 +1,4 @@
+text<-"awesome"
+> paste("R is ",text)
+[1] "R is  awesome"
+> 
