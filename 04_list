@@ -1,0 +1,13 @@
+
+
+a="siddhi"
+b="shruti"
+c="ayush"
+d="vidhi"
+e="samm"
+f="ansh"
+g="hariom"
+h="dheeraj"
+print(ls())
+print(rm(e))
+print(ls())
