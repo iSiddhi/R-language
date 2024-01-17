@@ -1,0 +1,12 @@
+a=readline("enter your name")
+print(a)
+name=readline("enter name of student")
+print(name)
+
+
+first=as.numeric(readline("enter first"))
+print(first)
+third=as.numeric(readline("enter third"))
+print(second)
+print(third)
+print(first+second+third)
