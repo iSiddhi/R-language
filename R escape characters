@@ -1,0 +1,8 @@
+str <- "hello world"
+str2 <-"world"
+paste(str1,str2)
+
+str <- "We are the so-called \"Vikings\", from the north."
+
+str
+cat(str)
